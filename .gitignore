@@ -1,0 +1,18 @@
+# Node
+node_modules/
+npm-debug.log
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Environment & Mac Files
+.env
+*.env
+.DS_Store
+**/.DS_Store
+
+# Large AI Model Weights (Optional: uncomment if your .pt files exceed GitHub's 100MB limit)
+# *.pt

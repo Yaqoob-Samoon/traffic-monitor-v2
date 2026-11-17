@@ -1,0 +1,247 @@
+[
+    {
+        "filename": "car-crash-vector-illustration-two-260nw-2188011087.jpg",
+        "original_width": 639,
+        "original_height": 280,
+        "detections": []
+    },
+    {
+        "filename": "1107491777_9c35ab92f1_b.jpg",
+        "original_width": 1024,
+        "original_height": 657,
+        "detections": []
+    },
+    {
+        "filename": "accident-1409012_1280.jpg",
+        "original_width": 1280,
+        "original_height": 960,
+        "detections": [
+            {
+                "class": "severe",
+                "confidence": 0.9006,
+                "bbox": {
+                    "x_center": 0.5964,
+                    "y_center": 0.4928,
+                    "width": 0.6883,
+                    "height": 0.54
+                }
+            }
+        ]
+    },
+    {
+        "filename": "1765785321170-images (2).jpeg",
+        "original_width": 194,
+        "original_height": 259,
+        "detections": [
+            {
+                "class": "severe",
+                "confidence": 0.8456,
+                "bbox": {
+                    "x_center": 0.5816,
+                    "y_center": 0.5393,
+                    "width": 0.8146,
+                    "height": 0.8302
+                }
+            }
+        ]
+    },
+    {
+        "filename": "1765710178214-I-80_Eastshore_Fwy.jpeg",
+        "original_width": 1600,
+        "original_height": 1152,
+        "detections": []
+    },
+    {
+        "filename": "1765718221938-istockphoto-1340924232-612x612.jpeg",
+        "original_width": 612,
+        "original_height": 408,
+        "detections": [
+            {
+                "class": "moderate",
+                "confidence": 0.5984,
+                "bbox": {
+                    "x_center": 0.5743,
+                    "y_center": 0.5994,
+                    "width": 0.8513,
+                    "height": 0.6675
+                }
+            }
+        ]
+    },
+    {
+        "filename": "pic_one.jpeg",
+        "original_width": 512,
+        "original_height": 640,
+        "detections": [
+            {
+                "class": "severe",
+                "confidence": 0.8594,
+                "bbox": {
+                    "x_center": 0.4993,
+                    "y_center": 0.2822,
+                    "width": 0.4312,
+                    "height": 0.2086
+                }
+            }
+        ]
+    },
+    {
+        "filename": "images (1).jpeg",
+        "original_width": 250,
+        "original_height": 200,
+        "detections": [
+            {
+                "class": "moderate",
+                "confidence": 0.3605,
+                "bbox": {
+                    "x_center": 0.6847,
+                    "y_center": 0.4049,
+                    "width": 0.6305,
+                    "height": 0.7772
+                }
+            }
+        ]
+    },
+    {
+        "filename": "car.jpeg",
+        "original_width": 3000,
+        "original_height": 2000,
+        "detections": []
+    },
+    {
+        "filename": "1765710011616-images.jpeg",
+        "original_width": 259,
+        "original_height": 194,
+        "detections": []
+    },
+    {
+        "filename": "istockphoto-1340924232-612x612.jpeg",
+        "original_width": 612,
+        "original_height": 408,
+        "detections": [
+            {
+                "class": "moderate",
+                "confidence": 0.5984,
+                "bbox": {
+                    "x_center": 0.5743,
+                    "y_center": 0.5994,
+                    "width": 0.8513,
+                    "height": 0.6675
+                }
+            }
+        ]
+    },
+    {
+        "filename": "1765718009853-images.jpeg",
+        "original_width": 259,
+        "original_height": 194,
+        "detections": []
+    },
+    {
+        "filename": "1765775584295-istockphoto-1340924232-612x612.jpeg",
+        "original_width": 612,
+        "original_height": 408,
+        "detections": [
+            {
+                "class": "moderate",
+                "confidence": 0.5984,
+                "bbox": {
+                    "x_center": 0.5743,
+                    "y_center": 0.5994,
+                    "width": 0.8513,
+                    "height": 0.6675
+                }
+            }
+        ]
+    },
+    {
+        "filename": "1765775808369-hq720.jpeg",
+        "original_width": 686,
+        "original_height": 386,
+        "detections": [
+            {
+                "class": "severe",
+                "confidence": 0.8858,
+                "bbox": {
+                    "x_center": 0.3469,
+                    "y_center": 0.3547,
+                    "width": 0.4455,
+                    "height": 0.5337
+                }
+            }
+        ]
+    },
+    {
+        "filename": "1765784905884-I-80_Eastshore_Fwy.jpeg",
+        "original_width": 1600,
+        "original_height": 1152,
+        "detections": []
+    },
+    {
+        "filename": "1765718076413-istockphoto-1340924232-612x612.jpeg",
+        "original_width": 612,
+        "original_height": 408,
+        "detections": [
+            {
+                "class": "moderate",
+                "confidence": 0.5984,
+                "bbox": {
+                    "x_center": 0.5743,
+                    "y_center": 0.5994,
+                    "width": 0.8513,
+                    "height": 0.6675
+                }
+            }
+        ]
+    },
+    {
+        "filename": "1765710270699-karachi-pakistan-april-04-2025-260nw-2611878267.jpeg",
+        "original_width": 390,
+        "original_height": 280,
+        "detections": [
+            {
+                "class": "severe",
+                "confidence": 0.6495,
+                "bbox": {
+                    "x_center": 0.4682,
+                    "y_center": 0.5617,
+                    "width": 0.1242,
+                    "height": 0.3148
+                }
+            },
+            {
+                "class": "severe",
+                "confidence": 0.3455,
+                "bbox": {
+                    "x_center": 0.1879,
+                    "y_center": 0.565,
+                    "width": 0.163,
+                    "height": 0.3412
+                }
+            }
+        ]
+    },
+    {
+        "filename": "4d121c907242a667c2c813eebd6e4d1c.jpeg",
+        "original_width": 626,
+        "original_height": 417,
+        "detections": []
+    },
+    {
+        "filename": "car-crash-scaled.png",
+        "original_width": 2048,
+        "original_height": 1365,
+        "detections": [
+            {
+                "class": "moderate",
+                "confidence": 0.6163,
+                "bbox": {
+                    "x_center": 0.5115,
+                    "y_center": 0.4646,
+                    "width": 0.6732,
+                    "height": 0.3513
+                }
+            }
+        ]
+    }
+]

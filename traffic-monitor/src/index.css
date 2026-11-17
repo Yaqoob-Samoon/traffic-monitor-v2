@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --color-primary: #6366f1;   /* Indigo 500 */
+  --color-secondary: #ec4899; /* Pink 500 */
+  --color-dark: #0f172a;      /* Slate 900 */
+  --color-surface: #1e293b;   /* Slate 800 */
+  
+  --font-sans: 'Inter', sans-serif;
+  
+  --animate-scan: scan 3s linear infinite;
+  
+  @keyframes scan {
+    0% { top: 0%; opacity: 0; }
+    10% { opacity: 1; }
+    90% { opacity: 1; }
+    100% { top: 100%; opacity: 0; }
+  }
+}
+
+/* Glassmorphism Utilities */
+.glass {
+  background: rgba(255, 255, 255, 0.05);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.glass-panel {
+  @apply bg-white/70 dark:bg-slate-800/60 backdrop-blur-xl border border-gray-200 dark:border-slate-700/50 shadow-xl;
+}
+
+/* Base Styles */
+body {
+  @apply bg-gray-50 text-slate-800 dark:bg-[#0b1120] dark:text-slate-200 font-sans antialiased selection:bg-primary/30;
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  @apply bg-slate-300 dark:bg-slate-700 rounded-full;
+}
+.scrollbar-hide::-webkit-scrollbar {
+    display: none;
+}
+.scrollbar-hide {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+}
